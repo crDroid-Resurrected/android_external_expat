@@ -23,6 +23,7 @@ rm CMakeLists.txt
 rm ConfigureChecks.cmake
 rm Makefile.am
 rm Makefile.in
+rm acinclude.m4
 rm aclocal.m4
 rm configure
 rm configure.ac
